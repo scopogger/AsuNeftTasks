@@ -9,15 +9,10 @@
         /// значений от -15 до 14 включительно.
         /// Определить количество элементов по модулю больших, чем максимальный.
         /// 
-        /// На шизо-программистском:
-        /// INPUT = xxx Nothing xxx
-        /// APP: Generates an array[20] of random[-15; 14] numbers
-        /// OUTPUT = Count of Abs(array[...]~min) that are greater than array[i]~MAX
-        /// 
         /// </summary>
 
-        Console.WriteLine("> This app counts how many numbers with absolute value are greater than the max number in the generated array");
-        Console.WriteLine("> Ctrl+C to quit the app. (Cmd+C if your're using mac)");
+        Console.WriteLine("> Это приложение считает, сколько чисел по модулю больше максимального в случайно сгенерированном массиве");
+        Console.WriteLine("> Ctrl+C чтобы закрыть приложение. (Cmd+C если ты с мака)");
 
         while (true)
         {

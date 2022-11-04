@@ -8,13 +8,9 @@
         /// Написать функцию, которая определяет количество разрядов
         /// введенного целого числа.
         /// 
-        /// На шизо-программистском:
-        /// INPUT = Integer (.., -1, 0, 1, 2, ..)
-        /// OUTPUT = input.Length
-        /// 
         /// </summary>
 
-        Console.WriteLine("> This app ...");
+        Console.WriteLine("> Это приложение определяет количество разрядов введенного целого числа");
 
         while (true)
         {
@@ -44,7 +40,7 @@
                     Console.WriteLine("Введённую строку не получается конвертировать в целое число :C");
             }
             else
-                Console.WriteLine("> Ctrl+C to quit the app. (Cmd+C if your're using mac)");
+                Console.WriteLine("> Ctrl+C чтобы закрыть приложение. (Cmd+C если ты с мака)");
             Console.WriteLine();
         }
     }

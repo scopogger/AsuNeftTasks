@@ -8,13 +8,9 @@
         /// Вводится натуральное число. Найти его наибольшую цифру.
         /// Например, введено число 764580. Наибольшая цифра в нем 8.
         /// 
-        /// На шизо-программистском:
-        /// INPUT = Natural number (0, 1, 2, 3...)
-        /// OUTPUT = Max digit in the input number
-        /// 
         /// </summary>
 
-        Console.WriteLine("> This app finds the Max digit in the input number");
+        Console.WriteLine("> Это приложение ищет максимальную цифру во введённом числе (натуральном)");
 
         while (true)
         {
@@ -34,7 +30,7 @@
                     Console.WriteLine("Введённую строку не получается конвертировать в натуральное число :C");
             }
             else
-                Console.WriteLine("> Ctrl+C to quit the app. (Cmd+C if your're using mac)");
+                Console.WriteLine("> Ctrl+C чтобы закрыть приложение. (Cmd+C если ты с мака)");
             Console.WriteLine();
         }
     }

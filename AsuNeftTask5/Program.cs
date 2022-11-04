@@ -9,14 +9,11 @@
         /// Как только пользователь ввел «пустую строку» вывести на экран
         /// сумму введенных чисел и завершить работу программы.
         /// 
-        /// На шизо-программистском:
-        /// INPUT = Any numbers
-        /// OUTPUT = Sum(n1, n2, n3...)
-        /// 
         /// </summary>
 
-        Console.WriteLine("> This app calculates the sum of all input numbers");
-        Console.WriteLine("> Ctrl+C to quit the app. (Cmd+C if your're using mac)");
+        Console.WriteLine("> Это приложение считает сумму введённых чисел (даже дробных, видимо).");
+        Console.WriteLine("> Числа вводятся через Enter. При вводе пустой строки выдаётся сумма.");
+        Console.WriteLine("> Ctrl+C чтобы закрыть приложение. (Cmd+C если ты с мака)");
         decimal totalSum = 0;
 
         while (true)
@@ -27,7 +24,7 @@
             {
                 if (!Decimal.TryParse(inStr, out decimal sum))
                 {
-                    Console.Write(" - введённую строку не получилось конвертировать в число :C");
+                    Console.WriteLine("Введённую строку не получилось конвертировать в число :C" + Environment.NewLine);
                 }
                 else
                 {

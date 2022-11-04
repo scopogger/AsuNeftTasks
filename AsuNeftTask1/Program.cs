@@ -8,10 +8,6 @@
         /// Вводится целое число, обозначающее код символа по таблице ASCII.
         /// Определить, это код английской буквы или какой-либо иной символ.
         /// 
-        /// На шизо-программистском:
-        /// INPUT = Integer (.., -1, 0, 1, 2, ..)
-        /// OUTPUT = "Yes"/"No"
-        /// 
         /// Для справки:
         /// ASCII control characters (0-31 and 127)
         /// ASCII printable characters (32-126) - most commonly referred.
@@ -23,10 +19,10 @@
         /// 
         /// </summary>
 
-        Console.WriteLine("> This app checks if the input number corresponds to an ASCII English letter code");
-        Console.WriteLine("> [ASCII table has a range of 0-255]");
-        Console.WriteLine("> A through Z: 65-90");
-        Console.WriteLine("> a through z: 97-122");
+        Console.WriteLine("> Это приложение проверяет, если введённое число (целое) соответствует ASCII коду английской буквы");
+        Console.WriteLine("> [Диапазон кодов таблицы ASCII 0-255]");
+        Console.WriteLine("> A-Z: 65-90");
+        Console.WriteLine("> a-z: 97-122");
 
         while (true)
         {
@@ -48,7 +44,7 @@
                 }
             }
             else
-                Console.WriteLine("> Ctrl+C to quit the app. (Cmd+C if your're using mac)");
+                Console.WriteLine("> Ctrl+C чтобы закрыть приложение. (Cmd+C если ты с мака)");
         }
     }
 }
