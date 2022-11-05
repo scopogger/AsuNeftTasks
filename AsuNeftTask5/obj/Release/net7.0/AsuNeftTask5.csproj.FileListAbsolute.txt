@@ -1,0 +1,15 @@
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\bin\Release\net7.0\AsuNeftTask5.exe
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\bin\Release\net7.0\AsuNeftTask5.deps.json
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\bin\Release\net7.0\AsuNeftTask5.runtimeconfig.json
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\bin\Release\net7.0\AsuNeftTask5.dll
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\bin\Release\net7.0\AsuNeftTask5.pdb
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.csproj.AssemblyReference.cache
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.AssemblyInfoInputs.cache
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.AssemblyInfo.cs
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.csproj.CoreCompileInputs.cache
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.dll
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\refint\AsuNeftTask5.dll
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.pdb
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\AsuNeftTask5.genruntimeconfig.cache
+C:\Users\FaSciCake\source\repos\Core\WPFcore\AsuNeftTasks\AsuNeftTask5\obj\Release\net7.0\ref\AsuNeftTask5.dll

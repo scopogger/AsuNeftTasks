@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AsuNeftTask2/1.0.0": {
+        "runtime": {
+          "AsuNeftTask2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsuNeftTask2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
